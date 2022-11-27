@@ -1,6 +1,6 @@
 ---
-title: hello-world
-date: 2022-12-27
+title: 'hello-world'
+date: '2022-12-27'
 ---
 
 ** hello world
